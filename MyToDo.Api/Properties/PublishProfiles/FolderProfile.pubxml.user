@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Publish\MyToDo</_PublishTargetUrl>
+    <History>True|2026-11-17T13:13:30.6205624Z||;True|2026-11-17T21:07:48.3947485+08:00||;False|2026-11-17T21:07:22.3595857+08:00||;True|2026-11-17T21:00:38.0130936+08:00||;True|2026-11-17T15:44:06.7231910+08:00||;True|2026-11-17T15:41:52.3456974+08:00||;True|2026-11-17T15:29:12.0425260+08:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ToDoConnection">
+      <Value>Data Source=to.db</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

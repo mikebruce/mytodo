@@ -1,0 +1,9 @@
+# Visual Studio 临时文件
+.vs/
+
+# 生成输出
+bin/
+obj/
+
+# 用户本地设置
+*.user

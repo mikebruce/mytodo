@@ -1,0 +1,13 @@
+D:\Program\WPF2026\MyToDo.Shared\bin\Release\net10.0\MyToDo.Shared.deps.json
+D:\Program\WPF2026\MyToDo.Shared\bin\Release\net10.0\MyToDo.Shared.dll
+D:\Program\WPF2026\MyToDo.Shared\bin\Release\net10.0\MyToDo.Shared.pdb
+D:\Program\WPF2026\MyToDo.Shared\obj\Release\net10.0\MyToDo.Shared.csproj.AssemblyReference.cache
+D:\Program\WPF2026\MyToDo.Shared\obj\Release\net10.0\MyToDo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program\WPF2026\MyToDo.Shared\obj\Release\net10.0\MyToDo.Shared.AssemblyInfoInputs.cache
+D:\Program\WPF2026\MyToDo.Shared\obj\Release\net10.0\MyToDo.Shared.AssemblyInfo.cs
+D:\Program\WPF2026\MyToDo.Shared\obj\Release\net10.0\MyToDo.Shared.csproj.CoreCompileInputs.cache
+D:\Program\WPF2026\MyToDo.Shared\obj\Release\net10.0\MyToDo.Shared.dll
+D:\Program\WPF2026\MyToDo.Shared\obj\Release\net10.0\refint\MyToDo.Shared.dll
+D:\Program\WPF2026\MyToDo.Shared\obj\Release\net10.0\MyToDo.Shared.pdb
+D:\Program\WPF2026\MyToDo.Shared\obj\Release\net10.0\ref\MyToDo.Shared.dll
+D:\Program\WPF2026\MyToDo.Shared\obj\Release\net10.0\MyToDo.S.22FCE61D.Up2Date
